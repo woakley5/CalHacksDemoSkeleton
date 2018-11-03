@@ -6,3 +6,5 @@ Todo:
 * Initalize CocoaPods (`pod init`)
 * Install ` pod 'ConfettiView'`
 * Implement ConfettiView
+
+Finished version here: https://github.com/woakley5/CalHacksDemo
